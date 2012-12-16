@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="/static/css/devteam.css">
+    <title>{{{ title }}}</title>
+    <link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon"></link>
+  </head>
+
+  <body>
+		<header>{{{ title }}}</header>
+    <time></time>
+
+    <script data-main="/static/js/updater" src="/static/js/lib/require.js"></script>
+  </body>
+</html>
